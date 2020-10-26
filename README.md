@@ -1,3 +1,6 @@
+# Notes
+Do not forget to create `.env` file using provided `.env.example` and put valid Google Cloud API key.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
